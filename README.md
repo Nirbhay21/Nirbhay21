@@ -8,7 +8,6 @@
 ⚙️ I work mainly with **React**, **TypeScript**, **Redux Toolkit**, **Express.js**, **MongoDB**, and **Node.js**.  
 🎯 My goal is to create impactful full-stack products that blend great UI/UX with solid backend architecture.  
 
----
 
 ### 🧠 My Current Focus
 - 🌐 Building real-world full-stack projects that demonstrate scalability and design patterns  
@@ -57,6 +56,3 @@ Git • GitHub • VS Code • Postman • Vercel • Render • Figma • Netli
     <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail" height="30" />
   </a>
 </p>
-
-
---- 
